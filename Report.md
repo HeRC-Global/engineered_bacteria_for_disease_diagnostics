@@ -99,23 +99,23 @@ Support research in low- and middle-income countries to ensure equitable access.
 
 ### Future Research
 
-- **Host–Microbiota Interactions**
+- **Host–Microbiota Interactions**:
 Understand how engineered bacteria interact with individual microbiomes and variability across populations.
 
-- **Safety and Long-Term Effects**
+- **Safety and Long-Term Effects**:
 Investigate long-term survival, toxicity, and immune responses in humans.
 
-- **Multi-Disease Targeting**
+- **Multi-Disease Targeting**:
 Develop bacterial systems capable of addressing multiple conditions simultaneously (e.g., cancer + diabetes).
 
-- **Precision Targeting Mechanisms**
+- **Precision Targeting Mechanisms**:
 Improve bacterial localization and migration to disease sites (e.g., tumors).
 
-- **Quantification of Disease Burden**
+- **Quantification of Disease Burden**:
 Enable bacteria to measure disease severity (e.g., tumor size, metabolic imbalance).
 
-- **Clinical Translation**
+- **Clinical Translation**:
 Expand human clinical trials to validate efficacy and safety.
 
-- **Personalization of Therapies**
+- **Personalization of Therapies**:
 Tailor engineered bacteria to specific patients and disease profiles.
